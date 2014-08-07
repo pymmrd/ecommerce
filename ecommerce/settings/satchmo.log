@@ -1,0 +1,12 @@
+Thu, 07 Aug 2014 01:22:15 root         INFO     Satchmo Started
+Thu, 07 Aug 2014 01:22:15 configuration DEBUG    Could not load default shipping module configuration: fedex_web_services
+Thu, 07 Aug 2014 01:22:15 shop.listeners DEBUG    Added default shop listeners
+Thu, 07 Aug 2014 01:22:15 satchmo_toolbar DEBUG    Satchmo toolbar ready
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Management command: runserver
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Called model choices initialization function <shipping_choices>
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Management command: runserver
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Called model choices initialization function <labelled_gateway_choices>
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Management command: runserver
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Called model choices initialization function <labelled_gateway_choices>
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Management command: runserver
+Thu, 07 Aug 2014 01:22:15 iterchoices  DEBUG    Called model choices initialization function <credit_choices>
